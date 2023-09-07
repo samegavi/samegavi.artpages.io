@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link rel="icon" href="/images/favicon.png">	
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+		<link rel="icon" href="/assets/images/favicon.png">	
 	{% if page.includes contains 'mathjax' %}
 		<script type="text/x-mathjax-config">
 		MathJax.Hub.Config({
