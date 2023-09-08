@@ -2,8 +2,8 @@
 slide: 02-getting-started
 ---
 
-## Basement
+## 
 
 ![Alt text](/assets/img/keyboard1.png "a title")
 
-Use the `slide: slide-title` attribute to choose under which slide your basement will go.
+drawing 32string alphanumeric codes from the bitcoin network as "sywpes" on an alphanumeric representation of a keyboard  
