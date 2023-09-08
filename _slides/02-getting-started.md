@@ -2,13 +2,9 @@
 transition: zoom
 ---
 
-## Getting started
+## Before: Drawings with Alphanumericals
 
-Run the presentation using:
+Exploring drawing with code & the text making apparatus of Keyboard
 
-```bash
-# With Bundle
-bundle exec jekyll serve
-```
 
-Check the basement slides by clicking the down arrow.
+Images below:
