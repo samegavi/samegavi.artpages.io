@@ -1,8 +1,8 @@
 ---
 ---
 
-# Demo 
+# Studio 
 
-## Introduction
+## Drawings & Projects
 
-Let me introduce you to [Reveal-Jekyll](https://github.com/sylhare/Reveal-Jekyll)
+What I've been up to lately
